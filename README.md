@@ -15,4 +15,4 @@ Analisando Dados com Python.
 Previsão de dados com inteligencia artificial.
 
 ### 4 - Python Dev: Criação de Sites e Sistemas com Python
-Construção de um chat ao vivo
+Criação de sites e sistemas.
