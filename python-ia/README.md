@@ -10,4 +10,4 @@ Você precisa analisar todos os clientes do banco e, com base nessa análise, cr
 - **2 Passo** - Fazer o tratamento na base de dados;
 - **3 Passo** - Selecionar quais colunas serão usadas de treino para o modelo de IA;
 - **4 Passo** - Treinar 2 modelos de IA;
-- **5 Passo** - Selecionarr o melhor modelo de IA.
+- **5 Passo** - Selecionar o melhor modelo de IA.
