@@ -1,7 +1,15 @@
-## Projeto de automação
+# Projeto de automação
 
-### Objetivo
+## Objetivo
 Automatizar o processo de inserção de dados dos produtos de uma base de dados no sistema da empresa.
+
+- **1 Passo** - Abrir o navegador;
+- **2 Passo**  Entrar no sistema da empresa; # Link: https://dlp.hashtagtreinamentos.com/python/intensivao/login
+- **2 Passo** - Logar no sistema; 
+- **3 Passo** - Pegar e importar a base de dados;
+- **4 Passo** - Cadastrar os produtos no site;
+- **5 Passo** - Repetir o passo 4 até cadastrar todos os produtos.
+
 
 ### Demostração do funcionamento do código.
 
