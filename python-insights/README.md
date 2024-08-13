@@ -11,4 +11,4 @@ Precisando melhorar seus resultados ela quer conseguir entender os principais mo
 - **2 Passo** - Analisar a base de dados; 
 - **3 Passo** - Fazer o tratamento dos dados;
 - **4 Passo** - Analisar a causa do cancelamento dos clientes;
-- **5 Passo** - Com base na analise, sugerir melhorias para evitar futuro cancelamento dos clientes. 
+- **5 Passo** - Com base na análise, sugerir melhorias para evitar futuro cancelamento dos clientes.
